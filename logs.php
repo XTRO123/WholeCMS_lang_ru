@@ -1,36 +1,36 @@
 <?php
 return [
 
-	'process_title' => 'Whole CMS Process Logs',
-	'process_page_title' => 'Process Logs',
+	'process_title' => 'Лог действий Whole CMS',
+	'process_page_title' => 'Лог действий',
 
-	'login_title'=>'Whole CMS Login Logs',
-	'login_page_title' => 'Login Logs',
+	'login_title'=>'Лог входов Whole CMS',
+	'login_page_title' => 'Лог входов',
 
 	'errors_title'=>'Whole CMS Error Logs',
-	'errors_page_title' => 'Error Logs',
+	'errors_page_title' => 'Лог ошибок',
 
-	'process_breadcrumb0' => 'Dashboard Panel',
-	'process_breadcrumb1' => 'Logs',
-	'process_breadcrumb2' => 'Process Logs',
+	'process_breadcrumb0' => 'Панель управления',
+	'process_breadcrumb1' => 'Логи',
+	'process_breadcrumb2' => 'Лог действий',
 
-	'login_breadcrumb0' => 'Dashboard Panel',
-	'login_breadcrumb1' => 'Logs',
-	'login_breadcrumb2' => 'Login Logs',
+	'login_breadcrumb0' => 'Панель управления',
+	'login_breadcrumb1' => 'Логи',
+	'login_breadcrumb2' => 'Лог входов',
 
-	'errors_breadcrumb0' => 'Dashboard Panel',
-	'errors_breadcrumb1' => 'Logs',
-	'errors_breadcrumb2' => 'Error Logs',
+	'errors_breadcrumb0' => 'Панель управления',
+	'errors_breadcrumb1' => 'Логи',
+	'errors_breadcrumb2' => 'Лог ошибок',
 
 
-	'process_portlet_title'=>"Process Logs",
-	'process_textbox'=>'Process Logs Blank',
+	'process_portlet_title'=>"Лог действий",
+	'process_textbox'=>'Лог действий пуст',
 
-	'login_portlet_title'=>"Login Logs",
-	'login_textbox'=>'Login Logs Blank',
+	'login_portlet_title'=>"Лог входов",
+	'login_textbox'=>'Лог входов пуст',
 
-	'errors_portlet_title'=>"Error Logs",
-	'errors_textbox'=>'Error Logs Blank',
+	'errors_portlet_title'=>"Лог ошибок",
+	'errors_textbox'=>'Лог ошибок пуст',
 
-	'clear'=>"Clear Logs",
+	'clear'=>"Очистить лог",
 ];
