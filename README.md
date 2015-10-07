@@ -1,5 +1,5 @@
 # wholecms_lang_ru
-русская локализация интерфейса Wholecms
+русский интерфейс WholeCMS (Laravel5)
 
 Расположение -> resources\lang\vendor\whole\ru
 
