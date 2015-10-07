@@ -12,19 +12,19 @@ return [
     'create_page_title' => 'Add Content Page',
 
 	
-	'index_breadcrumb0' => 'Dashborad Panel',
-	'index_breadcrumb1' => 'Pages',
+	'index_breadcrumb0' => 'Панель управления',
+	'index_breadcrumb1' => 'Страницы',
 	'index_breadcrumb2' => 'Content Pages',
 	
 	
-	'edit_breadcrumb0' => 'Dashborad Panel',
+	'edit_breadcrumb0' => 'Панель управления',
 	'edit_breadcrumb1' => 'Pages',
 	'edit_breadcrumb2' => 'Content Pages',
 	'edit_breadcrumb3' => 'Edit A Content Page',
 	
 	
-	'create_breadcrumb0' => 'Dashborad Panel',
-	'create_breadcrumb1' => 'Pages',
+	'create_breadcrumb0' => 'Панель управления',
+	'create_breadcrumb1' => 'Страницы',
 	'create_breadcrumb2' => 'Content Pages',
 	'create_breadcrumb3' => 'Add Content Page',
 	
@@ -41,8 +41,8 @@ return [
 	'delete'=>"Удалить",
 	'settings'=>'Установки',
 
-	'template_name'=>'Template Name',
-	'select_template'=>'Select template',
+	'template_name'=>'Наименование шаблона',
+	'select_template'=>'Выбрать шаблон',
 	'hidden_fields'=>'Скрытые поля',
 	'back'=>'Назад',
 	'content'=>'Content',
