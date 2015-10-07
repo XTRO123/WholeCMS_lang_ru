@@ -1,37 +1,37 @@
 <?php
 return [
 	
-	'index_title' => 'Whole CMS Templates',
+	'index_title' => 'Шаблоны Whole CMS ',
     'index_page_title' => 'Шаблоны',
 	
 	'create_title' => 'Whole CMS, Add new template',
     'create_page_title' => 'Добавление нового шаблона',
 
 
-	'index_breadcrumb0' => 'Dashboard Panel',
-	'index_breadcrumb1' => 'Templates',
-	'index_breadcrumb2' => 'All Templates',
+	'index_breadcrumb0' => 'Панель управления',
+	'index_breadcrumb1' => 'Шаблоны',
+	'index_breadcrumb2' => 'Все шаблоны',
 
-	'create_breadcrumb0' => 'Dashboard Panel',
-	'create_breadcrumb1' => 'Template Manager',
-	'create_breadcrumb2' => 'Add A New Template',
+	'create_breadcrumb0' => 'Панель управления',
+	'create_breadcrumb1' => 'Управление шаблоном',
+	'create_breadcrumb2' => 'Добавить новый шаблон',
 
 	
-	'index_portlet_title'=>"Templates",
-	'add_new'=>"Add New",
+	'index_portlet_title'=>"Шаблоны",
+	'add_new'=>"Добавить новый",
 
-	'create_portlet_title'=>"Add A New Template",
+	'create_portlet_title'=>"Создание нового шаблона",
 
-	'save'=>"Save",
-	'cancel'=>"Cancel",
-	'edit'=>"Edit",
-	'delete'=>"Delete",
-	'active_template'=>'Active Template',
+	'save'=>"Сохранить",
+	'cancel'=>"Отменить",
+	'edit'=>"Редактировать",
+	'delete'=>"Удалить",
+	'active_template'=>'Активный шаблон',
 
-	'index_table_th1' => 'Template Name',
-	'index_table_th2' => 'Template Description',
-	'index_table_th3' => 'Status',
-	'index_table_th4' => 'Processes',
+	'index_table_th1' => 'Наименование шаблона',
+	'index_table_th2' => 'Описание шаблона',
+	'index_table_th3' => 'Статус',
+	'index_table_th4' => 'Действия',
 	
-	'form_label_1'=>"Template File",
+	'form_label_1'=>"Файл шаблоны",
 ];

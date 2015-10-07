@@ -7,7 +7,7 @@ return [
 	'login_title'=>'Лог входов Whole CMS',
 	'login_page_title' => 'Лог входов',
 
-	'errors_title'=>'Whole CMS Error Logs',
+	'errors_title'=>'Лог ошибок Whole CMS',
 	'errors_page_title' => 'Лог ошибок',
 
 	'process_breadcrumb0' => 'Панель управления',

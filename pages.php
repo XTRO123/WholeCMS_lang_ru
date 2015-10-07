@@ -42,7 +42,7 @@ return [
 	'bootstrap_icon'=>'Bootstrap иконка',
 	'font_awesome_icon'=>'Иконка Font Awesome ',
 	'close'=>'Закрыть',
-	'remove'=>'Удаление',
+	'remove'=>'Переместить',
 	'new_content'=>'Добавить новый контент',
 
 	'ajax_error0'=>'Неудачная попытка обновления',

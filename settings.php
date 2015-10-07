@@ -2,12 +2,12 @@
 
 return [
 	'edit_title' => 'Основные установки Whole CMS',
-    'edit_page_title' => 'Параметры сайта',
+    'edit_page_title' => 'Установки сайта',
 
-	'edit_breadcrumb0' => 'Панель Dashboard',
+	'edit_breadcrumb0' => 'Панель управления',
 	'edit_breadcrumb1' => 'Параметры сайта',
 
-	'edit_portlet_title'=>"Праметры сайта",
+	'edit_portlet_title'=>"Установки сайта",
 
 	'save'=>"Сохранить",
 	'cancel'=>"Отменить",
