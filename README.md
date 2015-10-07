@@ -1,5 +1,5 @@
 # wholecms_lang_ru
-русский интерфейс WholeCMS (Laravel5)
+русский интерфейс для WholeCMS (Laravel5) https://github.com/wholecms/core
 
 Расположение -> resources\lang\vendor\whole\ru
 
