@@ -42,7 +42,7 @@ return [
 	'settings'=>'Установки',
 
 	'template_name'=>'Наименование шаблона',
-	'select_template'=>'Выбрать шаблон',
+	'select_template'=>'Выбрать Тему оформления',
 	'hidden_fields'=>'Скрытые поля',
 	'back'=>'Назад',
 	'content'=>'Content',

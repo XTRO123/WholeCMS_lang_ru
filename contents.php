@@ -48,6 +48,6 @@ return [
 	'form_label_3'	=>"Опубликовано ",
 	'form_label_4'	=>"Уровень доступа",
 	'form_label_5'	=>"Содержимое",
-	'form_option_1'	=>"Прсмотров",
+	'form_option_1'	=>"Гость",
 
 ];

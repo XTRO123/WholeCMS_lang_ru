@@ -17,7 +17,7 @@ return [
 	'settings'=>'Параметры',
 
 	'template_name'=>'Наименование шаблона',
-	'select_template'=>'Выберите тему шаблона',
+	'select_template'=>'Выбранная тема шаблона',
 	'hidden_fields'=>'Скрытые поля',
 	'back'=>'Назад',
 	'content'=>'Content',
